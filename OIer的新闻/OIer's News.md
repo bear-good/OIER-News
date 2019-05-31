@@ -1,3 +1,7 @@
+![](https://img.shields.io/github/watchers/bear-good/OIER-News.svg?style=social&label=Watch)   ![](https://img.shields.io/github/stars/bear-good/OIER-News.svg?style=social&label=stars)
+
+------------
+
 **~~发在水版的被某归零函数删了,被迫转移至此地。~~**
 
 没错,本报道报的是……
@@ -17,9 +21,9 @@
 1. 写MD文件,企鹅进群。				  //最好是
 1. 写在你的博客内,并发送源码给我。		//不推荐
 1. 用云剪贴板制作,私信给我。			//也行
-1. PR至本项目[GitHub](https://github.com/bear-good/OIER-News)储存库。
-1. 注:企鹅(831279113 验证码填 OIER's News)
-1. 点击链接加入群聊 OIER's News: [QAQ](https://jq.qq.com/?_wv=1027&k=5ISqCIj)
+1. PR至本项目[$GitHub$](https://github.com/bear-good/OIER-News)储存库。
+1. 注:企鹅(831279113 验证码填 $OIER's News$)
+1. 点击链接加入群聊 $OIER's News$: [$QAQ$](https://jq.qq.com/?_wv=1027&k=5ISqCIj)
 
 ------
 
@@ -33,9 +37,9 @@
 
 ![](https://i.loli.net/2019/03/16/5c8c92d2107f5.png)
 
-## 我们是OIER
+## 我们是$OIER$
 
-### 我们是O I E R
+### 我们是$O\text{ }I\text{ }E\text{ }R$
 
 我们是OIer， 所以我们 不用在跑道上挥汗如雨； 不用在球场上健步如飞； 更不用在没事的时候， 经受非人的体能训练……
 
@@ -79,4 +83,4 @@
 
 他叫道:“喂！别跑！”
 
-我留下一句:“有朝一日,你也会像他们一样,而我,已经是了……”
+我没有停,只静静地留下一句:“有朝一日,你也会像他们一样,而我,已经是了……”
