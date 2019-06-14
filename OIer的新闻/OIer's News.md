@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/watchers/bear-good/OIER-News.svg?style=social&label=Watch)   ![](https://img.shields.io/github/stars/bear-good/OIER-News.svg?style=social&label=stars)
+![](https://img.shields.io/github/watchers/bear-good/OIER-News.svg?style=social&label=Watch)   ![](https://img.shields.io/github/stars/bear-good/OIER-News.svg?style=social&label=stars)   ![](https://img.shields.io/github/forks/bear-good/OIER-News.svg?label=Fork&style=social)
 
 ------------
 
