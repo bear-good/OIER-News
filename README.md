@@ -17,4 +17,4 @@
 
 可以再这里投稿,欢迎大家PR!
 
-投稿先看:[QAQ](https://github.com/bear-good/OIER-News/issues/1)
+投稿先看:[QAQ](https://github.com/bear-good/OIER-News/blob/master/CONTRIBUTING.md)
