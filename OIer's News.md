@@ -1,4 +1,8 @@
-![Github Watch](https://img.shields.io/github/watchers/bear-good/OIER-News.svg?style=social&label=Watch)   ![Github Stars](https://img.shields.io/github/stars/bear-good/OIER-News.svg?style=social&label=stars)   ![Github Fork](https://img.shields.io/github/forks/bear-good/OIER-News.svg?label=Fork&style=social)   ![GitHub pull requests](https://img.shields.io/github/issues-pr/bear-good/OIER-News.svg)   ![GitHub issues](https://img.shields.io/github/issues/bear-good/OIER-News.svg?color=green&style=popout)
+![Github Watch](https://img.shields.io/github/watchers/bear-good/OIER-News.svg?style=social&label=Watch)   ![Github Stars](https://img.shields.io/github/stars/bear-good/OIER-News.svg?style=social&label=stars)   ![Github Fork](https://img.shields.io/github/forks/bear-good/OIER-News.svg?label=Fork&style=social)
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/bear-good/OIER-News.svg)   ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/bear-good/OIER-News.svg)   ![GitHub issues](https://img.shields.io/github/issues/bear-good/OIER-News.svg?color=green&style=popout)   ![GitHub closed issues](https://img.shields.io/github/issues-closed/bear-good/OIER-News.svg?color=green&style=popout)
+
+求stars&赞
 
 ------------
 
